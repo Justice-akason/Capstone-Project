@@ -30,7 +30,8 @@ The lab was built to replicate enterprise network segmentation and simulate adve
 | Windows 10 Agent  | Internal Host | 192.168.***.***   | Event log generation, lateral movement test   |
 | Wazuh Manager     | SIEM          | 192.168.***.***   | Centralized log aggregation and alerting      |
 
-![ChatGPT Image Aug 20, 2025, 12_30_05 AM](https://github.com/user-attachments/assets/974d5c3d-1adf-4694-9ef5-54618a9a99bb)
+<img width="759" height="449" alt="image" src="https://github.com/user-attachments/assets/17dace5c-558f-47cc-8436-5befc9447bcc" />
+
 
 
 ###  Segmentation Validation
