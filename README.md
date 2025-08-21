@@ -50,7 +50,8 @@ Traceroute and firewall rules confirmed isolation between attacker, DMZ, and int
 hydra -l root -P /usr/share/wordlists/rockyou.txt ssh://192.168.***.***
 ```
 
-![Hydra Output](https://github.com/user-attachments/assets/a494c19b-3ba0-4eb0-a460-e5ecdc321852)
+<img width="652" height="515" alt="Screenshot 2025-08-19 212746" src="https://github.com/user-attachments/assets/6c1ecc1f-5b9c-49a4-b133-4e2ce18ec71d" />
+
 
 ---
 
