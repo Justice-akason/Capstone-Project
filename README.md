@@ -30,7 +30,8 @@ The lab was built to replicate enterprise network segmentation and simulate adve
 | Windows 10 Agent  | Internal Host | 192.168.***.***   | Event log generation, lateral movement test   |
 | Wazuh Manager     | SIEM          | 192.168.***.***   | Centralized log aggregation and alerting      |
 
-![Lab Diagram](https://github.com/user-attachments/assets/4bb1f26f-30db-4c3d-b625-8ce84ee235c9)
+![ChatGPT Image Aug 20, 2025, 12_30_05 AM](https://github.com/user-attachments/assets/974d5c3d-1adf-4694-9ef5-54618a9a99bb)
+
 
 ###  Segmentation Validation
 
@@ -65,7 +66,8 @@ hydra -l root -P /usr/share/wordlists/rockyou.txt ssh://192.168.***.***
 | Low      | 186   |
 | Critical | 0     |
 
-![Wazuh Dashboard](https://github.com/user-attachments/assets/67bebdc5-209f-4e78-9892-ec89de842f1a)
+<img width="1910" height="422" alt="Screenshot 2025-08-19 213258" src="https://github.com/user-attachments/assets/9432ec2b-76dd-4ad4-b4a8-dfde93851e46" />
+
 
 ###  Security Configuration Assessment (SCA)
 
