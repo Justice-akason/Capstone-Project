@@ -98,11 +98,13 @@ hydra -l root -P /usr/share/wordlists/rockyou.txt ssh://192.168.***.***
 Aug 19 22:15:01 ubuntu sshd[1234]: Failed password for root from 192.168.***.*** port 54*** ssh2
 ```
 
-![Auth Log Snippet](https://github.com/user-attachments/assets/50017dc5-7315-41b9-abed-ed9775194809)
+<img width="1011" height="297" alt="Screenshot 2025-08-19 234636" src="https://github.com/user-attachments/assets/1676e28a-10f4-4008-9159-f31d832710fb" />
+
 
 - **Live Authentication Events:**
 
-![Ubuntu Terminal](https://github.com/user-attachments/assets/ea4438f9-901d-4524-b2fe-2125ec025511)
+<img width="1000" height="754" alt="Screenshot 2025-08-19 215010" src="https://github.com/user-attachments/assets/2795d452-a184-41fc-b2a2-2eaf3a5be201" />
+
 
 - **Wazuh Alert JSON:**
 ```json
