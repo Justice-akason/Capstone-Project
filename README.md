@@ -166,4 +166,4 @@ Deliverables included:
 
 ##  Conclusion
 
-This simulation showcases the full lifecycle of SOC operations — from segmentation and adversary emulation to detection, response, and reporting. Justice demonstrated strong technical execution, clear communication, and alignment with frameworks like ISO 27001 and GDPR.
+This simulation showcases the full lifecycle of SOC operations — from segmentation and adversary emulation to detection, response, and reporting. I demonstrated strong technical execution, clear communication, and alignment with frameworks like ISO 27001 and GDPR.
